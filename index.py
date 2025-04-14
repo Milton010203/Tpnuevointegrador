@@ -65,6 +65,8 @@ while flag == False:
                 print("Inrgese un valor valido")
                 print("- " * 50)
         flag = True
+
+    # Segunda opcion
     elif opcion == 2:
         numero_binario = True
         while flagger == False:
